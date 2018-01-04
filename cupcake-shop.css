@@ -1,10 +1,10 @@
 body {
   background-image: url("images/cupcake2.JPG");
   background-position: top;
+  
 }
 
 h1 {
-  color: Dodgerblue;
   text-align: center;
   font-size: 5vw;
   font-family: verdana;
@@ -14,4 +14,23 @@ h2 {
   text-align: center;
   font-size: 4vw;
   margin-top: 20%;
+}
+
+li {
+  font-size: 2.5vw;
+  color: white;
+  font-style: verdana;
+  padding-top: 50px;
+}
+
+.flashy {
+  color: tomato;
+  font-style: italic;
+}
+
+.cupcake-pic {
+  height: auto;
+  width: auto;
+  max-width: 450px;
+  max-height: 450px;
 }
